@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>UTF-16</comment>
+<entry key="vso-build-nb">2707387</entry>
+<entry key="pkg-description"/>
+<entry key="pkg-name">org.caf.demo</entry>
+<entry key="used-plugins"/>
+<entry key="pkg-signer">C=US,OU=IT,O=MCG,CN=vro.mcglab.local</entry>
+<entry key="vso-version">6.0.2.2707387 (6.0.2.2700137)</entry>
+<entry key="pkg-owner">C=US,OU=IT,O=MCG,CN=vro.mcglab.local</entry>
+<entry key="pkg-id">402881db5242ff27015246063c1000b6</entry>
+</properties>
